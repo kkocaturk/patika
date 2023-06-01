@@ -1,4 +1,4 @@
-package patika;
+package patika.notOrtalama;
 
 import java.util.Scanner;
 
